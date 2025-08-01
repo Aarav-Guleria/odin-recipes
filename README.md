@@ -12,3 +12,13 @@ It includes a basic website with links to different recipes using only HTML.
 
 ## Project Structure
 
+- index.html # Main home page
+- README.md # Project documentation
+- images/ # Directory for images used in the project
+  - lasagna.jpg # Image for recipe 1
+  - margherita.jpg # Image for recipe 2
+  - carbonara.jpg # Image for recipe 3
+- recipes/
+  - lasagna.html # Recipe page for Lasagna
+  - margherita.html # Recipe page for Margherita Pizza
+  - carbonara.html # Recipe page for Carbonara Pasta
